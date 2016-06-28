@@ -1,0 +1,9 @@
+concept,name,concept_type
+name,Name,string
+year,Year,time
+country,Country,entity_domain
+sex,Sex,entity_domain
+age_group,Age Group,entity_domain
+labour_force_000,Labour force ('000),measure
+population_000,Population ('000),measure
+labour_force_participation_rate,Labour force participation rate (%),measure
